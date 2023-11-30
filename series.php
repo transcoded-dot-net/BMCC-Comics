@@ -13,22 +13,22 @@
 <body>
     <div class="banner">
         <img class="bannerimage" src="img/comics-background.jpg">
-        <a href="home.html"><img class="logo" src="img/CBDB.png"></a>
+        <a href="index.php"><img class="logo" src="img/CBDB.png"></a>
     </div>
 
     <div style="padding-top: 0;" class="topnav">
-        <a class="active" href="series.html">Series</a>
-        <a href="characters.html">Characters</a>
-        <a href="creators.html">Creators</a>
-        <a href="register.html">Register</a>
-        <a href="login.html">Login</a>
+        <a class="active" href="series.php">Series</a>
+        <a href="characters.php">Characters</a>
+        <a href="creators.php">Creators</a>
+        <a href="register.php">Register</a>
+        <a href="login.php">Login</a>
     </div>
     <div class="container">
-        <a href="home.html">
+        <a href="index.php">
             <img src="img/asm_1.jpg">
             <h4>Amazing Spider-Man</h4>
         </a>
-        <a href="home.html">
+        <a href="index.php">
             <img src="img/batman1.jpg">
             <h4>Batman</h4>
         </a>

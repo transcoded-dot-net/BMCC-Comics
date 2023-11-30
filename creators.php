@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -11,15 +11,15 @@
 <body>
     <div class="banner">
         <img class="bannerimage" src="img/comics-background.jpg">
-        <a href="home.html"><img class="logo" src="img/CBDB.png"></a>
+        <a href="index.php"><img class="logo" src="img/CBDB.png"></a>
     </div>
 
     <div style="padding-top: 0; float:right;" class="topnav">
-        <a href="series.html">Series</a>
-        <a href="characters.html">Characters</a>
-        <a href="creators.html">Creators</a>
-        <a href="register.html">Register</a>
-        <a href="login.html">Login</a>
+        <a href="series.php">Series</a>
+        <a href="characters.php">Characters</a>
+        <a class="active" href="creators.php">Creators</a>
+        <a href="register.php">Register</a>
+        <a href="login.php">Login</a>
     </div>
 
 </body>
