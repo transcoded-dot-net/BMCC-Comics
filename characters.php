@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 
@@ -19,15 +19,15 @@
 <div style="padding-top: 0;" class="topnav">
     <a href="series.php">Series</a>
     <a href="teams.php">Teams</a>
-    <a href="characters.php">Characters</a>
-    <a class="active" href="creators.php">Creators</a>
+    <a class="active" href="characters.php">Characters</a>
+    <a href="creators.php">Creators</a>
     <a href="register.php">Register</a>
     <a href="login.php">Login</a>
 </div>
 <div class="container">
-    <a href="creator_viewer.php?creatorid">
-        <img src="img/jerry_ordway.jpg">
-        <h4>title of creator from attribute</h4>
+    <a href="character_viewer.php?heroID">
+        <img src="img/batman.jpg">
+        <h4>title of character from attribute</h4>
     </a>
     <a href="index.php">
         <img src="img/batman1.jpg">

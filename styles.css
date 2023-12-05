@@ -74,6 +74,28 @@
         margin-top: 1%;
         margin: 1%;
     }
+.container table a {
+    flex-grow: 1;
+    flex-basis: 10%;
+    min-width: 250px;
+    max-width: 350px;
+    border-style: none;
+    border-color: #333333;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    margin: 1%;
+}
+.container ul a {
+    flex-grow: 1;
+    flex-basis: 10%;
+    min-width: 250px;
+    max-width: 350px;
+    border-style: none;
+    border-color: #333333;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    margin: 1%;
+}
 
     .container img {
         width: 100%;

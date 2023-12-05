@@ -104,6 +104,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     <div style="padding-top: 0; float:right;" class="topnav">
         <a href="series.php">Series</a>
+        <a href="teams.php">Teams</a>
         <a href="characters.php">Characters</a>
         <a href="creators.php">Creators</a>
         <a class="active" href="register.php">Register</a>

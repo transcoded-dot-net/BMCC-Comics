@@ -18,15 +18,16 @@
 
     <div style="padding-top: 0;" class="topnav">
         <a class="active" href="series.php">Series</a>
+        <a href="teams.php">Teams</a>
         <a href="characters.php">Characters</a>
         <a href="creators.php">Creators</a>
         <a href="register.php">Register</a>
         <a href="login.php">Login</a>
     </div>
     <div class="container">
-        <a href="index.php">
+        <a href="series_viewer.php">
             <img src="img/asm_1.jpg">
-            <h4>Amazing Spider-Man</h4>
+            <h4>title of series from attribute</h4>
         </a>
         <a href="index.php">
             <img src="img/batman1.jpg">
